@@ -6,7 +6,7 @@ METROPOLIS MONTI CARLO SIMULATION
 
 OF
 
-2D Hyperbolic-Polar model of Proteins
+2D Hydrophobic-Polar model of Proteins
 
 
 Name: ZEESHAN ALI, Roll No: I14-1623
