@@ -8,6 +8,8 @@ Results of the algorithm on different protein sequences
 
 (Observed that the performance was better for longer sequences)
 
+![Proteins](https://github.com/zeeshanalipanhwar/Monti-Carlo-Simulations-of-2D-HP-Model/blob/master/protiens.png)
+
 S# Length Sequence Energy
 
 01 20  HPHPPHHPHPPHPHHPPHPH  -4
