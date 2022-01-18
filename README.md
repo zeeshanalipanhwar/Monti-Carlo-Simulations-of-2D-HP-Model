@@ -1,17 +1,8 @@
-3D Modeling & Simulations in Bioinformatics (CS06F)
+# METROPOLIS MONTI CARLO SIMULATION
 
-ASSIGNMENT: 01
+# OF
 
-METROPOLIS MONTI CARLO SIMULATION
-
-OF
-
-2D Hydrophobic-Polar model of Proteins
-
-
-Name: ZEESHAN ALI, Roll No: I14-1623
-
-Instructor: PROF. HAMMAD NAVEED
+# 2D Hydrophobic-Polar model of Proteins
 
 Results of the algorithm on different protein sequences
 
