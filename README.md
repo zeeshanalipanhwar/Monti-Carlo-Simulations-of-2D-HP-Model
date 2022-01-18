@@ -9,4 +9,5 @@
 (Observed that the performance was better for longer sequences)
 
 Sequence: 01  02  03  04  05  06  07  08  09  10  11
+
 Energy  : -4  -2  -2  -5  -16 -16 -31 -40 -59 -33 51
